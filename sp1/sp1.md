@@ -1,9 +1,13 @@
 ---
 layout: default
-title: "Unidad 1. Fundamentos de la Inteligencia Artificial y el Aprendizaje Automático"
+title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
 ---
 
-## Lección 1. ¿Qué es la IA? De la mente humana a las máquinas inteligentes
+## Virtualització i instal·lació del SO Ubuntu
+### Llicenciament
+## Instal·lacións duals i Gestors d'arrancada
+## Particions i punts de restauració
+## Configuració basica de la xarxa
+## Comandes generals i instal·lació d'aplicacions
 
-- [Material teórico (PDF)](https://github.com/mireiaconsarnau/machine_learning/raw/main/unidad1/l1.pdf)
-- [Vídeo de recapitulación de conceptos clave (YOUTUBE)](https://youtu.be/p27AhdHxi_o)
+
