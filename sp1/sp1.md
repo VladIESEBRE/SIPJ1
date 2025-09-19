@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sprint 1: Avaluació, Instal·lació i Configuració de Xarxes i Sistemes Operatius"
+title: "Sprint 1: Instal·lació i Configuració Inicial"
 ---
 
 ## Virtualització i instal·lació del SO Ubuntu
