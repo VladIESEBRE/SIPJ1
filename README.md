@@ -1,6 +1,6 @@
-# Curso de Machine Learning
+# Sistemas Informáticos
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
+Este repositorio contiene el material del curso de Sistemas Informáticos desarrollado por Mireia Consarnau.
 
 ## Contenido
 
