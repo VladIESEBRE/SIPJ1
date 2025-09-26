@@ -21,5 +21,6 @@ Se debe dar crédito adecuado, proporcionar un enlace a esta licencia e indicar 
 
 © 2025 Vlad Bobu
 
-<img width="400" height="350" alt="Captura de pantalla de 2025-09-26 11-50-42" src="https://github.com/user-attachments/assets/27c7d937-6ec3-40b7-a5b2-4e04a2e1495d" />
+<img width="270" height="63" alt="image" src="https://github.com/user-attachments/assets/4126cb2c-3746-4a14-9791-04dd931f0103" />
+
 
