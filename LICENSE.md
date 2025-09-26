@@ -19,4 +19,4 @@ Puedes consultar el texto completo de la licencia aquí:
 
 Se debe dar crédito adecuado, proporcionar un enlace a esta licencia e indicar si se han realizado cambios. Cualquier obra derivada debe distribuirse con la misma licencia y no se pueden imponer restricciones adicionales.
 
-© 2025 Mireia Consarnau
+© 2025 Vlad Bobu
