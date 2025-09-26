@@ -4,7 +4,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 ---
 
 ## Virtualització i instal·lació del SO Ubuntu
-###**Instalación Ubuntu**
+### **Instalación Ubuntu**
  
 ## Llicenciament
 
