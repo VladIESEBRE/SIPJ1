@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Sprint 1: Instal·lació i Configuració Inicial"
-###Instalación Ubuntu
 ---
 
 ## Virtualització i instal·lació del SO Ubuntu
+###**Instalación Ubuntu**
+ 
 ## Llicenciament
 
 #### **Licencia de Ubuntu**
