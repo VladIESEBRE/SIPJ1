@@ -16,7 +16,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 
 &nbsp;&nbsp;En este proyecto utilizo la licencia Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) de Creativer Commons.
  
- - La © indica que indica que la obra está protegida por derechos de autor.
+ - La © indica que la obra está protegida por derechos de autor.
  - Attribution (BY): Requiere que se dé crédito al autor original, simbolizada por la persona.
  - NoDerivatives (ND): Prohíbe modificar o crear obras derivadas de la original.Sibolizado por el simbolo "="
  - 4.0 International: Es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
