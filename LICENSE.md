@@ -21,6 +21,7 @@ Se debe dar crédito adecuado, proporcionar un enlace a esta licencia e indicar 
 
 © 2025 Vlad Bobu
 
-<img width="270" height="63" alt="image" src="https://github.com/user-attachments/assets/4126cb2c-3746-4a14-9791-04dd931f0103" />
+<img width="266" height="59" alt="image" src="https://github.com/user-attachments/assets/e68ef92e-e009-49d0-b935-2659397a86c8" />
+
 
 
