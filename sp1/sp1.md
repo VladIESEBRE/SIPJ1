@@ -15,8 +15,10 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 <img width="266" height="59" alt="Captura de pantalla de 2025-09-26 11-59-32" src="https://github.com/user-attachments/assets/5c421019-47b9-472a-a5c6-d3e65fbb23c0" />
 
 &nbsp;&nbsp;En este proyecto utilizo la licencia Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) de Creativer Commons.
- - Attribution (BY): Requiere que se dé crédito al autor original
- - NoDerivatives (ND): Prohíbe modificar o crear obras derivadas de la original.
+ 
+ - La © indica que indica que la obra está protegida por derechos de autor.
+ - Attribution (BY): Requiere que se dé crédito al autor original, simbolizada por la persona.
+ - NoDerivatives (ND): Prohíbe modificar o crear obras derivadas de la original.Sibolizado por el simbolo "="
  - 4.0 International: Es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
  
  
