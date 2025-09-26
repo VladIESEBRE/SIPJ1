@@ -13,6 +13,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 &nbsp;&nbsp;Hay tantas licencias diferentes porque el mundo del software libre y de código abierto ha evolucionado durante décadas, con necesidades variadas según los creadores y proyectos. Ubuntu, al basarse en Debian y en el ecosistema Linux, incorpora software de múltiples fuentes, lo que genera esta diversidad.
 
 <img width="266" height="59" alt="Captura de pantalla de 2025-09-26 11-59-32" src="https://github.com/user-attachments/assets/5c421019-47b9-472a-a5c6-d3e65fbb23c0" />
+
 &nbsp;&nbsp;En este proyecto utilizo la licencia Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) de Creativer Commons.
  - Attribution (BY): Requiere que se dé crédito al autor original
  - NoDerivatives (ND): Prohíbe modificar o crear obras derivadas de la original.
