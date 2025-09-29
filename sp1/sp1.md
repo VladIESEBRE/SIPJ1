@@ -23,10 +23,14 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-56-35" src="https://github.com/user-attachments/assets/b4832ebe-b028-4432-a813-170f35c93eec" />
 
 
+&nbsp;&nbsp;- Seleccionamos cuanto espacio queremos utilizar para la partición.
+
+<img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-57-03" src="https://github.com/user-attachments/assets/d7e58052-dad4-4dbd-862c-2444124aee33" />
+
+
 &nbsp;&nbsp; -Elegimos el punto de montaje ,sda1(/)(es el espeacio reservado para el S.O).Reservamos 20GB en este caso.
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 12-59-07" src="https://github.com/user-attachments/assets/84732e9b-9593-4b10-b9f1-a03fea89453f" />
-
 
 &nbsp;&nbsp;- Seleccionamos cuanto espacio queremos utilizar para la partición.
 
