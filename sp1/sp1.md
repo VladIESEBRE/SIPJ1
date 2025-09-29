@@ -23,7 +23,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-56-35" src="https://github.com/user-attachments/assets/b4832ebe-b028-4432-a813-170f35c93eec" />
 
 
-&nbsp;&nbsp;- Seleccionamos cuanto espacio queremos que ocupe la partición.
+&nbsp;&nbsp;- Seleccionamos cuanto espacio queremos utilizar para la partición.
 
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-57-03" src="https://github.com/user-attachments/assets/d7e58052-dad4-4dbd-862c-2444124aee33" />
 
