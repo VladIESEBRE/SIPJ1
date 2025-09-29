@@ -14,6 +14,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 &nbsp;&nbsp;Aquí podemos elegir la capacidad total del disco duro.
  
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-56-35" src="https://github.com/user-attachments/assets/b4832ebe-b028-4432-a813-170f35c93eec" />
+
 &nbsp;&nbsp;Aquí podemos ver la pagina inicial donde podemos empezar la partición manualhaciendo click en el botón "Nueva tabla de particiones".
 
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-57-03" src="https://github.com/user-attachments/assets/d7e58052-dad4-4dbd-862c-2444124aee33" />
