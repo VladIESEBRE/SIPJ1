@@ -7,36 +7,36 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 ### **Instalación y particionamiento Ubuntu**
 
 
- &nbsp;&nbsp;En esta foto podemos elegir la memoria RAM y el número de cpus que se van a utilizar.
+ &nbsp;&nbsp;- En esta foto podemos elegir la memoria RAM y el número de cpus que se van a utilizar.
   
  <img width="859" height="478" alt="Captura de pantalla de 2025-09-26 12-45-05" src="https://github.com/user-attachments/assets/9a6edb8b-b134-415e-bc94-46d7e0bde50c" />
 
-&nbsp;&nbsp;Aquí podemos elegir la capacidad total del disco duro.
+&nbsp;&nbsp;- Aquí podemos elegir la capacidad total del disco duro.
  
  <img width="859" height="478" alt="Captura de pantalla de 2025-09-26 12-45-47" src="https://github.com/user-attachments/assets/87922ad6-541d-413c-b3b0-57d8050a26ea" />
  
-&nbsp;&nbsp;Aquí podemos ver la pagina inicial de particiones. Podemos empezar la partición manual haciendo click en el botón "Nueva tabla de particiones".
+&nbsp;&nbsp;- Aquí podemos ver la pagina inicial de particiones. Podemos empezar la partición manual haciendo click en el botón "Nueva tabla de particiones".
 
  
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-56-35" src="https://github.com/user-attachments/assets/b4832ebe-b028-4432-a813-170f35c93eec" />
 
-&nbsp;&nbsp;Seleccionamos cuando espacio queremos que ocupe la partición.
+&nbsp;&nbsp;- Seleccionamos cuando espacio queremos que ocupe la partición.
 
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-57-03" src="https://github.com/user-attachments/assets/d7e58052-dad4-4dbd-862c-2444124aee33" />
 
-&nbsp;&nbsp;Damos click a "Utilizar como: Sistema de ficheros ext4 transaccional ,ya que ext4 es el estándar para Linux
+&nbsp;&nbsp; -Damos click a "Utilizar como: Sistema de ficheros ext4 transaccional ,ya que ext4 es el estándar para Linux
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 12-58-24" src="https://github.com/user-attachments/assets/cbd3f8d0-9d5e-44ce-b982-7573a160a590" />
 
-&nbsp;&nbsp;Elegimos el punto de montaje ,sda1(/)(es el espeacio reservado para el S.O).Reservamos 20GB este caso.
+&nbsp;&nbsp; -Elegimos el punto de montaje ,sda1(/)(es el espeacio reservado para el S.O).Reservamos 20GB este caso.
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 12-59-07" src="https://github.com/user-attachments/assets/84732e9b-9593-4b10-b9f1-a03fea89453f" />
 
-&nbsp;&nbsp;Después, seleccionamos "espacio libre" y damos click al botón "+" para crear nuevas particiones: sda2 (/home) (el espacio reservado para los documentos de usuario, 10GB en este caso) 
+&nbsp;&nbsp; -Después, seleccionamos "espacio libre" y damos click al botón "+" para crear nuevas particiones: sda2 (/home) (el espacio reservado para los documentos de usuario, 10GB en este caso) 
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-01-56" src="https://github.com/user-attachments/assets/3a31622e-08a1-4f7d-a093-4979d3c713bd" />
 
- &nbsp;&nbsp;Seguimos con el mismo proceso de antes para crear: 
+ &nbsp;&nbsp; -Seguimos con el mismo proceso de antes para crear: 
  - sda3(/boot) (Archivos de arranque (kernel)(Facilita acualizaciónes y multi-boot) *5GB*
  - sda4(swap) (Memoria virtual; útil si la RAM es limitada) *4GB*
  - sda5(efi) (contiene los archivos de arranque necesarios para que el sistema operativo se inicie en un sistema con UEFI) *1GB*
