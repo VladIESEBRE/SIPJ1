@@ -4,7 +4,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 ---
 ##**"Virtualització i instal·lació del S.O Ubuntu"**
 
-### **Instalación Ubuntu**
+### **Instalación y particionamiento Ubuntu**
 
 
  &nbsp;&nbsp;En esta foto podemos elegir la memoria RAM y el número de cpus que se van a utilizar.
