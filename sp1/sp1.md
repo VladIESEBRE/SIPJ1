@@ -2,8 +2,7 @@
 layout: default
 title: "Sprint 1: Instal·lació i Configuració Inicial"
 ---
-<details>
-<summary> "Virtualització i instal·lació del SO Ubuntu"</summary>
+##**"Virtualització i instal·lació del S.O Ubuntu"**
 
 ### **Instalación Ubuntu**
  <img width="859" height="478" alt="Captura de pantalla de 2025-09-26 12-45-05" src="https://github.com/user-attachments/assets/9a6edb8b-b134-415e-bc94-46d7e0bde50c" />
@@ -15,7 +14,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-01-56" src="https://github.com/user-attachments/assets/3a31622e-08a1-4f7d-a093-4979d3c713bd" />
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-07-54" src="https://github.com/user-attachments/assets/b62dbb33-45c5-4ef9-8386-bfe512526977" />
 
-</details>
+
 
  
 ## Llicenciament
@@ -31,9 +30,9 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 &nbsp;&nbsp;En este proyecto utilizo la licencia Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) de Creativer Commons.
  
  - La © indica que la obra está protegida por derechos de autor.
- - Attribution (BY): Requiere que se dé crédito al autor original, simbolizada por la persona.
- - NoDerivatives (ND): Prohíbe modificar o crear obras derivadas de la original.Sibolizado por el simbolo "="
- - 4.0 International: Es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
+ - Attribution (BY),simbolizado por el icono de la persona ,requiere que se dé crédito al autor original.
+ - NoDerivatives (ND),sibolizado por "=", prohíbe modificar o crear obras derivadas de la original.
+ - 4.0 International quiere decir que es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
  
  
 
