@@ -17,18 +17,23 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 &nbsp;&nbsp;Aquí podemos ver la pagina inicial donde podemos empezar la partición manualhaciendo click en el botón "Nueva tabla de particiones".
 
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-57-03" src="https://github.com/user-attachments/assets/d7e58052-dad4-4dbd-862c-2444124aee33" />
+
 &nbsp;&nbsp;Seleccionamos cuando espacio queremos que ocupe la partición.
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 12-58-24" src="https://github.com/user-attachments/assets/cbd3f8d0-9d5e-44ce-b982-7573a160a590" />
+
 &nbsp;&nbsp;Damos click a "Utilizar como: Sistema de ficheros ext4 transaccional ,ya que ext4 es el estándar para Linux
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 12-59-07" src="https://github.com/user-attachments/assets/84732e9b-9593-4b10-b9f1-a03fea89453f" />
+
 &nbsp;&nbsp;Elegimos el punto de montaje ,sda1(/)(es el espeacio reservado para el S.O).Reservamos 20GB este caso.
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-01-56" src="https://github.com/user-attachments/assets/3a31622e-08a1-4f7d-a093-4979d3c713bd" />
+
 &nbsp;&nbsp;Después, seleccionamos "espacio libre" y damos click al botón "+" para crear nuevas particiones: sda2 (/home) (el espacio reservado para los documentos de usuario, 10GB en este caso) 
 
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-07-54" src="https://github.com/user-attachments/assets/b62dbb33-45c5-4ef9-8386-bfe512526977" />
+
  &nbsp;&nbsp;Seguimos con el mismo proceso de antes para crear: 
  - sda3(/boot) (Archivos de arranque (kernel)(Facilita acualizaciónes y multi-boot) *5GB*
  - sda4(swap) (Memoria virtual; útil si la RAM es limitada) *4GB*
