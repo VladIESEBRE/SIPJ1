@@ -10,17 +10,17 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 ### **Instalación y particionamiento Ubuntu**
 
  # Paso 1
- &nbsp;&nbsp;- En esta foto podemos elegir la memoria RAM y el número de cpus que se van a utilizar.
+ &nbsp;&nbsp;- En esta foto podemos elegir la memoria RAM y el número de cpus que se van a utilizar en la instalación de Ubuntu en una máquina virtual.
   
  <img width="859" height="478" alt="Captura de pantalla de 2025-09-26 12-45-05" src="https://github.com/user-attachments/assets/9a6edb8b-b134-415e-bc94-46d7e0bde50c" />
 
   # Paso 2
-&nbsp;&nbsp;- Aquí podemos elegir la capacidad total del disco duro.
+&nbsp;&nbsp;- Aquí podemos elegir la capacidad total que tendrá el disco duro.
  
  <img width="859" height="478" alt="Captura de pantalla de 2025-09-26 12-45-47" src="https://github.com/user-attachments/assets/87922ad6-541d-413c-b3b0-57d8050a26ea" />
  
   # Paso 3
-&nbsp;&nbsp;- Aquí podemos ver la pagina inicial de particiones. Podemos empezar la partición manual haciendo click en el botón "Nueva tabla de particiones".
+&nbsp;&nbsp;- Aquí podemos ver la pagina inicial de particiones.Con el espacio total indicado por "dev/sda". Podemos empezar la partición manual haciendo click en el botón "Nueva tabla de particiones".
 
  
 <img width="830" height="624" alt="Captura de pantalla de 2025-09-26 12-56-35" src="https://github.com/user-attachments/assets/b4832ebe-b028-4432-a813-170f35c93eec" />
