@@ -62,7 +62,11 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
 <img width="906" height="718" alt="Captura de pantalla de 2025-09-26 13-07-54" src="https://github.com/user-attachments/assets/b62dbb33-45c5-4ef9-8386-bfe512526977" />
 
  </details>
-## Llicenciament
+
+ <details>
+  <summary>Llicenciament</summary>
+
+   ## Llicenciament
 
 #### **Licencia de Ubuntu**
 &nbsp;&nbsp;Ubuntu, no utiliza una sola licencia, sino que es un sistema operativo compuesto por miles de paquetes de software, cada uno con su propia licencia de código abierto. Sin embargo, la licencia predominante es la GNU General Public License (GPL), específicamente versiones como GPL-2.0 y GPL-3.0, junto con la GNU Lesser General Public License (LGPL) para bibliotecas. Esto permite que los usuarios modifiquen y redistribuyan el software libremente.
@@ -78,6 +82,7 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
  - Attribution (BY),simbolizado por el icono de la persona ,requiere que se dé crédito al autor original.
  - NoDerivatives (ND),sibolizado por "=", prohíbe modificar o crear obras derivadas de la original.
  - 4.0 International quiere decir que es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
+    </details>
  
  
 
