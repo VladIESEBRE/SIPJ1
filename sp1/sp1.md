@@ -86,25 +86,26 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
  
  <details>
   <summary>Instal·lacións duals i Gestors d'arrancada</summary>
-      </details>
 
 ## Instal·lacións duals i Gestors d'arrancada
+</details>
  
  <details>
   <summary>Particions i punts de restauració</summary>
-      </details>
 
 ## Particions i punts de restauració
-
+</details>
  <details>
   <summary>Configuració basica de la xarxa</summary>
-      </details>
+      
 
 ## Configuració basica de la xarxa
+</details>
  <details>
   <summary>Comandes generals i instal·lació d'aplicacions</summary>
-      </details>
+     
 
 ## Comandes generals i instal·lació d'aplicacions
+</details>
 
 
