@@ -84,14 +84,27 @@ title: "Sprint 1: Instal·lació i Configuració Inicial"
  - 4.0 International quiere decir que es la versión más reciente de esta licencia, aplicable globalmente con términos estandarizados.
     </details>
  
- 
-
-
- 
+ <details>
+  <summary>Instal·lacións duals i Gestors d'arrancada</summary>
+      </details>
 
 ## Instal·lacións duals i Gestors d'arrancada
+ 
+ <details>
+  <summary>Particions i punts de restauració</summary>
+      </details>
+
 ## Particions i punts de restauració
+
+ <details>
+  <summary>Configuració basica de la xarxa</summary>
+      </details>
+
 ## Configuració basica de la xarxa
+ <details>
+  <summary>Comandes generals i instal·lació d'aplicacions</summary>
+      </details>
+
 ## Comandes generals i instal·lació d'aplicacions
 
 
